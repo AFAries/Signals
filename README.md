@@ -44,4 +44,4 @@ Recognizing the difference between a FM or AM signal for example will tell you h
 
 ### Conclusion
 
-Well that's a pretty fast crash course in some information about signals. The field is sort of like a black hole of knowledge with countless aspects to it. Signals are how we run our daily lives and understanding them can be both interesting and profitable. Hopefully this might pique your interest about signals and explore more about them in the digital realm.
+Well that's a pretty fast crash course on some information about signals. The field is sort of like a black hole of knowledge with countless aspects to it. Signals are how we run our daily lives and understanding them can be both interesting and profitable. Hopefully this might pique your interest about signals and explore more about them in the digital realm.
