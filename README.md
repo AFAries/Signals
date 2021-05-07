@@ -1,7 +1,7 @@
-### Title: Signals Basics
-### Author: Patrick McIntosh
-### Summary: A brief crash course on signals and their usage in the digital world
-### Audience: Students
+#### Title: Signals Basics
+#### Author: Patrick McIntosh
+#### Summary: A brief crash course on signals and their usage in the digital world
+#### Audience: Students
 
 
 <p></p>
