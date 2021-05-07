@@ -1,11 +1,11 @@
-#### Title: Signals Basics
-#### Author: Patrick McIntosh
-#### Summary: A brief crash course on signals and their usage in the digital world
-#### Audience: Students
+##### Title: Signals Basics
+##### Author: Patrick McIntosh
+##### Summary: A brief crash course on signals and their usage in the digital world
+##### Audience: Students
 
 
-<p></p>
-<p></p>
+<br/><br/>
+<br/><br/>
 
 ## What is a signal when talking about electronics and communications?
 “In electronics and telecommunications, it refers to any time varying voltage, current, or electromagnetic wave that carries information.”
