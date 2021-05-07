@@ -1,7 +1,7 @@
 ##### Title: Signals
 ##### Author: Patrick McIntosh
 ##### Summary: A brief crash course on signals and their usage in the digital world
-##### Audience: Students
+##### Audience: Students (High School and Up)
 
 <br/><br/>
 
@@ -40,7 +40,7 @@ Modulation is "the process of varying one or more properties of a periodic wavef
 Signals like to mix and combine. How they do so varies. Two of the most common modulations are Amplitude Modulation and Frequency Modulation or AM and FM.
 You can probably recognize these two just on a radio player. There is a reason things sound distorted if you would try listening to an FM signal on AM settings and vice versa. It goes back to that lock and key idea.
 
-Recognizing the difference between a FM or AM signal for example will tell you how a signal or device operates. Knowing the properties of a signal can also help you identify it too. This is required in a field of [Cryptography](https://en.wikipedia.org/wiki/Cryptography) for example. It can also help you understand how your digital devices work.
+Recognizing the difference between a FM or AM signal for example will tell you how a signal or device operates. Knowing the properties of a signal can also help you identify it too. This is required in a field of [Cryptography](https://en.wikipedia.org/wiki/Cryptography) for example. It will help you understand how your own personal digital devices work as well.
 
 ### Conclusion
 
