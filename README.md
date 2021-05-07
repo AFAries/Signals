@@ -3,8 +3,6 @@
 ##### Summary: A brief crash course on signals and their usage in the digital world
 ##### Audience: Students
 
-
-<br/><br/>
 <br/><br/>
 
 ## What is a signal when talking about electronics and communications?
