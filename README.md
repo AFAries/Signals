@@ -38,7 +38,7 @@ Well, the world often is often run in sort of a lock and key style. To open the 
 Modulation is "the process of varying one or more properties of a periodic waveform, called the carrier signal, with a separate signal called the modulation signal that typically contains information to be transmitted."-[Modulation](https://en.wikipedia.org/wiki/Modulation)
 
 Signals like to mix and combine. How they do so varies. Two of the most common modulations are Amplitude Modulation and Frequency Modulation or AM and FM.
-You can probably recognize these two just on a radio player. Theres a reason things sound distorted if you would try listening to an FM signal on AM settings and vice versa. It goes back to that lock and key idea.
+You can probably recognize these two just on a radio player. There is a reason things sound distorted if you would try listening to an FM signal on AM settings and vice versa. It goes back to that lock and key idea.
 
 Recognizing the difference between a FM or AM signal for example will tell you how a signal or device operates. Knowing the properties of a signal can also help you identify it too. This is required in a field of [Cryptography](https://en.wikipedia.org/wiki/Cryptography) for example. It can also help you understand how your digital devices work.
 
